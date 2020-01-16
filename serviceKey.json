@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pathways-hire",
+  "private_key_id": "20b99eb49255150cba0e0f5f137045278c7fcc98",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqqV78P1Z97eAD\nWRXpcfeGzLEyH1gyjq2++2HayLYlafTWMHot4EGMTtDb6KGThs0c8Lg26bnziEva\nlktfEGHCWSs+waaXNwNXEmjRYvD3zVW0RbBb/tkn0XGVChsG6GwgPPELI3NN2jp6\n5Urts1m2f7G7Gqu7DXlEBAELTf3g5ADxcNdp4P1QLLfqFiQkQGrLNA2XtBhqOFkL\ng7UKn09lQkrjPigZE0CQld3+1SHNBzhAxOYuvp+l9fOGdESoYcWuCGMhmhr4Vv5w\ntnM30f9iGkwSVD5VrRTWy++u9TxY+z9nIxon9nsDhNsTCetJiNye2EPstPFVy2HY\nBUXd2Vu/AgMBAAECggEABxifQqO9IasFECd23J2aek9fzw10RMZYjz9zbj4U1ibe\nj4WnSLDxg3dOZdWWE6+VhFkoDRgKFjLdlem4C14qZuaNuYCUaq46TvApTbXI/rPo\nM3KyJoyshh1GTisEA64Euy1S3TDCAOc3XILxeUNYRCBVCS3rOY4uXmJAdflf1tHx\nDQXWCry5xdwsipiQH5EDfCHRt8ey5q06GQjyMxG4C5fN2Kq0GwffqnFilqLE2sMG\nH3lsJ1YfocvcRvaNd5geUkSSZYC8Vfc1pctMdhD3aji3nwKX18bnWt4ji5yXdF1y\n/8fxnjCI89pkL/2o5/VsRA8ZfsEwN///g1oB0qfHzQKBgQDYbayEjQhVoT1dgvp4\nEiZezneLkB8qhi3ZK8kAvAb0KAfM1YA2GwwkCy+ix0gNIPW/lG8biFPDabq0kZtS\nfhICZME1vQ/8cZ3kGISUcHci0dK5+RFpECvChz27aDgqJWxakQEZ/E4KdqvJE84Y\nGuKgzhbIBTMDiRX7ofda1g5tEwKBgQDJ3X+SeeIscreeHZUoDDZUTJyPfZ0EdudZ\ndpJVcajCdAmbIGaQJ5rQKvgbM4pk0tNxeezZtXVz5e9dRl0+xGrGMDM28nBCIJ5N\nhwfL2fkO5j70Aflw280hsMwsSzF11lgrTwL07otJzdGpIDouH6UcgLfxlj7HHSva\n4F2wzpkIJQKBgCG9j1ymw/rdhTyT08puQe8bzwVB9aniezlVGyPzLD5aE0U6r58/\nvjfMSqPc3320ertgP6YSLcTUMdg+rvFAWDxpSrm+/MQFTnEl5V1i3x/diDWX/7/a\nVoggH16dE8x2Qxsnaf2MGPqGn6dcYA/f+R7KokCSlu5hK70r9e0CXANjAoGBAJc5\nYACTXmR97CB/eOXvgCPW4NJ9/8sAaIAU27s20n4Z/7g+pZcIlGmuRv/ZtKujZNN1\ny4Gs9rhEYPU3aVNEQdkG8tcO+BoR5YWeyrBkMrh+tFqHwB5UC3BZyhrEmeD1GkgX\ngNeMfLxle9N/WRaEjmSz6RkKvSzdJaVqv8VcgDghAoGAXjcWYN48drUtFw89wuqF\n79cXNv1jRd/QTKUFmdxQulJPG70wJuKWmNpxY3GlQPqRxHCJEmz4IyOFxtf6ndD6\ni/N16PH9+Y6RWs8rtclk1CpIQMG9tJFN5yo1UZ+tFfIh6zzBoQ99I2LtSE1+AQCH\nZT9E4WaqZNFGDRu/qiCW50Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pathways-hire@appspot.gserviceaccount.com",
+  "client_id": "116465299455688357982",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pathways-hire%40appspot.gserviceaccount.com"
+}
