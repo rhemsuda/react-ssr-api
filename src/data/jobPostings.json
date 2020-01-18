@@ -1,0 +1,258 @@
+[
+  {
+    "postingID": "jp-1f49a572",
+    "tempScore": 87,
+    "companyName": "Microsoft",
+    "jobTitle": "CEO",
+    "commuteCityName": "Guelph",
+    "commuteCityTime": "28 min",
+    "logo": "https://agsol.com/wp-content/uploads/2018/09/new-microsoft-logo-SIZED-SQUARE.jpg",
+    "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis viverra justo, et convallis dui. Aenean vulputate non eros non feugiat. Nunc varius nunc nisl, nec tincidunt massa posuere sed. Maecenas ultrices accumsan dictum. Suspendisse metus turpis, tempor eu pellentesque tristique, consequat sed odio. Pellentesque malesuada purus nec sem tempor, vitae bibendum ligula molestie. Phasellus in sodales lacus.",
+    "matchScoreCircles": {
+      "matchScoreCircleOne": {
+        "datasets": [
+          {
+            "data": [
+              90
+            ],
+            "backgroundColor": [
+              "#2f80ed",
+              "#6ab04c",
+              "#ff6b6b",
+              "#c7ecee",
+              "#130f40"
+            ]
+          }
+        ],
+        "labels": [
+          "Red",
+          "Yellow",
+          "Blue"
+        ]
+      },
+      "matchScoreCircleTwo": {
+        "datasets": [
+          {
+            "data": [
+              60
+            ],
+            "backgroundColor": [
+              "#6ab04c",
+              "#ff6b6b",
+              "#c7ecee",
+              "#130f40"
+            ]
+          }
+        ],
+        "labels": [
+          "Red",
+          "Yellow",
+          "Blue"
+        ]
+      },
+      "matchScoreCircleThree": {
+        "datasets": [
+          {
+            "data": [
+              10
+            ],
+            "backgroundColor": [
+              "#ff6b6b",
+              "#c7ecee",
+              "#130f40"
+            ]
+          }
+        ],
+        "labels": [
+          "Red",
+          "Yellow",
+          "Blue"
+        ]
+      }
+    },
+    "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis viverra justo, et convallis dui. Aenean vulputate non eros non feugiat. Nunc varius nunc nisl, nec tincidunt massa posuere sed. Maecenas ultrices accumsan dictum. Suspendisse metus turpis, tempor eu pellentesque tristique, consequat sed odio. Pellentesque malesuada purus nec sem tempor, vitae bibendum ligula molestie. Phasellus in sodales lacus.",
+    "qualificationsSetup": {
+      "labels": [
+        "Python",
+        "Django",
+        "Statistics",
+        "Calculus",
+        "NoSQL"
+      ],
+      "datasets": [
+        {
+          "label": "Your skill level",
+          "backgroundColor": "rgb(47,128,237,0.3)",
+          "borderColor": "rgba(179,181,198,1)",
+          "pointBackgroundColor": "rgb(47,128,237)",
+          "pointBorderColor": "#fff",
+          "pointHoverBackgroundColor": "rgb(47,128,237)",
+          "pointHoverBorderColor": "rgba(179,181,198,1)",
+          "data": [
+            48,
+            40,
+            63,
+            50,
+            45
+          ]
+        },
+        {
+          "label": "Required",
+          "backgroundColor": "rgba(255,99,132,0.2)",
+          "borderColor": "rgba(255,99,132,1)",
+          "pointBackgroundColor": "rgba(255,99,132,1)",
+          "pointBorderColor": "#fff",
+          "pointHoverBackgroundColor": "#fff",
+          "pointHoverBorderColor": "rgba(255,99,132,1)",
+          "data": [
+            9,
+            10,
+            11,
+            9,
+            14
+          ]
+        }
+      ]
+    },
+    "salary": "12",
+    "equityPercent": "3%",
+    "vacation": "2 weeks",
+    "bonus": "5K",
+    "amenitiesTags": [
+      "1thing",
+      "soccer team",
+      "more stuff",
+      "1thing",
+      "soccer team",
+      "more stuff"
+    ]
+  },
+  {
+    "postingID": "jp-7f6cb739",
+    "tempScore": "90",
+    "companyName": "Index Exchange",
+    "jobTitle": "Data Engineer",
+    "commuteCityName": "Guelph",
+    "commuteCityTime": "1h 4 min",
+    "logo": "https://cdn.freebiesupply.com/logos/large/2x/bbm-blackberry-messenger-logo-png-transparent.png",
+    "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis viverra justo, et convallis dui. Aenean vulputate non eros non feugiat. Nunc varius nunc nisl, nec tincidunt massa posuere sed. Maecenas ultrices accumsan dictum. Suspendisse metus turpis, tempor eu pellentesque tristique, consequat sed odio. Pellentesque malesuada purus nec sem tempor, vitae bibendum ligula molestie. Phasellus in sodales lacus.",
+    "matchScoreCircles": {
+      "matchScoreCircleOne": {
+        "datasets": [
+          {
+            "data": [
+              90
+            ],
+            "backgroundColor": [
+              "#2f80ed",
+              "#6ab04c",
+              "#ff6b6b",
+              "#c7ecee",
+              "#130f40"
+            ]
+          }
+        ],
+        "labels": [
+          "Red",
+          "Yellow",
+          "Blue"
+        ]
+      },
+      "matchScoreCircleTwo": {
+        "datasets": [
+          {
+            "data": [
+              60
+            ],
+            "backgroundColor": [
+              "#6ab04c",
+              "#ff6b6b",
+              "#c7ecee",
+              "#130f40"
+            ]
+          }
+        ],
+        "labels": [
+          "Red",
+          "Yellow",
+          "Blue"
+        ]
+      },
+      "matchScoreCircleThree": {
+        "datasets": [
+          {
+            "data": [
+              10
+            ],
+            "backgroundColor": [
+              "rgba(255, 0,0",
+              "#c7ecee",
+              "#130f40"
+            ]
+          }
+        ],
+        "labels": [
+          "Red",
+          "Yellow",
+          "Blue"
+        ]
+      }
+    },
+    "jobDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis viverra justo, et convallis dui. Aenean vulputate non eros non feugiat. Nunc varius nunc nisl, nec tincidunt massa posuere sed. Maecenas ultrices accumsan dictum. Suspendisse metus turpis, tempor eu pellentesque tristique, consequat sed odio. Pellentesque malesuada purus nec sem tempor, vitae bibendum ligula molestie. Phasellus in sodales lacus.",
+    "qualificationsSetup": {
+      "labels": [
+        "Python",
+        "Django",
+        "Statistics",
+        "Calculus",
+        "NoSQL"
+      ],
+      "datasets": [
+        {
+          "label": "Your Skill Level",
+          "backgroundColor": "rgb(47,128,237,0.3)",
+          "borderColor": "rgba(179,181,198,1)",
+          "pointBackgroundColor": "rgb(47,128,237)",
+          "pointBorderColor": "#fff",
+          "pointHoverBackgroundColor": "rgb(47,128,237)",
+          "pointHoverBorderColor": "rgba(179,181,198,1)",
+          "data": [
+            48,
+            40,
+            63,
+            50,
+            45
+          ]
+        },
+        {
+          "label": "Required",
+          "backgroundColor": "rgba(255,99,132,0.2)",
+          "borderColor": "rgba(255,99,132,1)",
+          "pointBackgroundColor": "rgba(255,99,132,1)",
+          "pointBorderColor": "#fff",
+          "pointHoverBackgroundColor": "#fff",
+          "pointHoverBorderColor": "rgba(255,99,132,1)",
+          "data": [
+            9,
+            10,
+            11,
+            9,
+            14
+          ]
+        }
+      ]
+    },
+    "salary": "2",
+    "equityPercent": "3%",
+    "vacation": "2 weeks",
+    "bonus": "5K",
+    "amenitiesTags": [
+      "1thing",
+      "soccer team",
+      "more stuff",
+      "1thing",
+      "soccer team",
+      "more stuff"
+    ]
+  }
+]

@@ -1,17 +1,17 @@
-const login = (username, password) => {
+const path = require('path');
+const login = (email, password) => {
   return new Promise((resolve, reject) => {
-    let usersCollection = db.collection('users');
-    usersCollection.where(
-      'username', '==', username, '&&', 
-      'password', '==', password
-    )
-    .get()
-    .then(snapshot => {
-      let data = snapshot.docs[0].data();
-      let user = {
-        name: data.name
-      }
-      resolve(user);
+    fs.readFile(path.join(__dirname, './data/accounts.json'), (err, data) => {
+      if(!err) {
+        let accountData = JSON.parse(data);
+        accountData.forEach(a => {
+          if(a.email === email && a.password === password) {
+            let {token, accountType} = a;
+            resolve({token, accountType});
+          }
+        });      
+      } 
+      reject(err);
     });
   });
 }

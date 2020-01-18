@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "token": "99ae1c5f-7ec9-41ab-95d5-b4cf48f5991c",
+    "accountType": 0,
+    "email": "kyle.jensen72@gmail.com",
+    "password": "monkeys123",
+    "data": {
+      "name": "Kyle Jensen",
+      "address": "278 Marengo crt",
+      "city": "Waterloo",
+      "province": "...",
+      "postalCode": "N2K3X2",
+      "dateOfBirth": "1997-03-25",
+      "phoneNumber": "5195753595",
+      "tos": 1,
+      "subscribe": 1
+    }
+  }
+]
